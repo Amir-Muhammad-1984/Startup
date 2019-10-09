@@ -3,3 +3,4 @@ Hello World
 This is a new file on smartgit
 
 Online Changes in second.txt for pull
+again changes occurs in second.txt
